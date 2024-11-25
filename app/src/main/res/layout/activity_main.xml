@@ -10,7 +10,7 @@
         android:id="@+id/textViewDateTime"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Click the button to display date and time"
+        android:text="@string/textViewDateTime"
         android:textSize="18sp"
         android:padding="16dp"
         android:gravity="center" />
@@ -19,13 +19,13 @@
         android:id="@+id/buttonShowDateTime"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Show Date/Time" />
+        android:text="@string/buttonShowDateTime" />
 
     <Button
         android:id="@+id/buttonClearText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Clear Text"
+        android:text="@string/buttonClearText"
         android:layout_marginTop="16dp" />
 
 </LinearLayout>

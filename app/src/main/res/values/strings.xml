@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">datetimedisplayapp</string>
+    <string name="buttonShowDateTime">Show Date/Time</string>
+    <string name="textViewDateTime">Click the button to display date and time</string>
+    <string name="buttonClearText">Clear Text</string>
 </resources>
